@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[otn:home|Door43 (otn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-otn|d43-otn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-otn/archive/master.zip|d43-otn.zip]]
+
+**Recent Changes**
+{{changes>ns = otn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/otn|Ethnologue data]]
+
